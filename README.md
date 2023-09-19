@@ -101,7 +101,7 @@ https://t.me/M1C843L
 Поддержать проект:\
 🟢 <a href='https://www.sberbank.com/sms/pbpn?requisiteNumber=79261004400'>Сбербанк</a>\
 🟡 <a href='https://www.tinkoff.ru/rm/shmyrev.mikhail11/Al1ZQ50410'>Тинькофф</a>\
-🟠 <a href='qiwi.com/n/MUXAUJI'>Киви</a>\
+🟠 <a href='https://qiwi.com/n/MUXAUJI/'>Киви</a>\
 🟣 <a href='https://yoomoney.ru/to/410011021288542/0'>Юмани</a>\
 <b>₿ (BTC)</b> - <i>bc1qcfamyqq24av5cfnn0ce7c0tvjff2z3wj6vk6ut</i>\
 <b>
